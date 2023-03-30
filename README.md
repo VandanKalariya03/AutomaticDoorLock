@@ -1,4 +1,4 @@
-# automaticDoorLock 🔒
+# Automatic Door Lock 🔒
 It is a IOT and AWS cloud based door lock system
 
 <h3>Introduction 🚪</h3><br>
@@ -12,3 +12,12 @@ When a guest comes to your door and press the push button, Raspberry Pi performs
 - It sends an email with presigned url of photo to the house owner.
 
 After Getting the email owner have to decide that wether to unlock the door or not. If owner reckognise the guest, owner pushed the push button and that button will be connected to the Arduino UNO and the Arduino controls the servo motor and servo motor will rotate Anti clockwise 180 for unlocking the door
+
+# Refrences 
+<b>Project Defination</b>: https://www.hackster.io/taifur/intelligent-door-lock-f9b7c3<br>
+<b>Raspberry PI OS and All Instalation Process</b>: https://www.raspberrypi.com/software/
+
+# For any queries Contact me
+- 📫Linked IN : https://www.linkedin.com/in/raj-beladiya/<br>
+<br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40"        height="40"/>&nbsp;
