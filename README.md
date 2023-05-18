@@ -18,6 +18,6 @@ After Getting the email owner have to decide that wether to unlock the door or n
 <b>Raspberry PI OS and All Instalation Process</b>: https://www.raspberrypi.com/software/
 
 # For any queries Contact me
-- 📫Linked IN : https://www.linkedin.com/in/raj-beladiya/<br>
+- 📫Linked IN : https://www.linkedin.com/in/vandankalariya/<br>
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40"        height="40"/>&nbsp;
